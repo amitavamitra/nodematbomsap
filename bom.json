@@ -1,0 +1,18 @@
+{
+    "matnr": "MAT-0001",
+    "werks":"0001",
+    "bom_usage":"3",
+    "alternative":"1",
+    "valid_from":"08.06.2021",
+    "components": [
+                    {
+                "item_categ":"L",
+                "item_no": "0010",
+                "component":"MAT-0002",
+                "comp_qty":"1",
+                "comp_unit":"EA"        
+                    }
+                                
+                  ]
+    
+}

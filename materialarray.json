@@ -1,0 +1,91 @@
+[{
+    "matnr": "MAT-0001",
+    "matkx":"ALENWARE 18 INCH R3",
+    "mbrsh":"M",
+    "matkl":"01",
+    "matyp":"HALB",
+    "meins":"EA"
+},
+{
+    "matnr": "MAT-0002",
+    "matkx":"HARD DISK 500 GB",
+    "mbrsh":"M",
+    "matkl":"01",
+    "matyp":"HALB",
+    "meins":"EA"
+},
+{
+    "matnr": "MAT-0003",
+    "matkx":"HARD DISK 1 TB",
+    "mbrsh":"M",
+    "matkl":"01",
+    "matyp":"HALB",
+    "meins":"EA"
+},
+{
+    "matnr": "MAT-0004",
+    "matkx":"HARD DISK 2 TB",
+    "mbrsh":"M",
+    "matkl":"01",
+    "matyp":"HALB",
+    "meins":"EA"
+},
+{
+    "matnr": "MAT-0005",
+    "matkx":"RAM 16 GB",
+    "mbrsh":"M",
+    "matkl":"01",
+    "matyp":"HALB",
+    "meins":"EA"
+},
+{
+    "matnr": "MAT-0006",
+    "matkx":"RAM 32 GB",
+    "mbrsh":"M",
+    "matkl":"01",
+    "matyp":"HALB",
+    "meins":"EA"
+},
+{
+    "matnr": "MAT-0007",
+    "matkx":"RAM 64 GB",
+    "mbrsh":"M",
+    "matkl":"01",
+    "matyp":"HALB",
+    "meins":"EA"
+},
+{
+    "matnr": "MAT-0008",
+    "matkx":"RAM 128 GB",
+    "mbrsh":"M",
+    "matkl":"01",
+    "matyp":"HALB",
+    "meins":"EA"
+},
+{
+    "matnr": "MAT-0009",
+    "matkx":"INT I9 10900X",
+    "mbrsh":"M",
+    "matkl":"01",
+    "matyp":"HALB",
+    "meins":"EA"
+},
+{
+    "matnr": "MAT-0010",
+    "matkx":"INT I9 10920X",
+    "mbrsh":"M",
+    "matkl":"01",
+    "matyp":"HALB",
+    "meins":"EA"
+},
+{
+    "matnr": "MAT-0011",
+    "matkx":"INT I9 10980XE",
+    "mbrsh":"M",
+    "matkl":"01",
+    "matyp":"HALB",
+    "meins":"EA"
+}
+
+]
+
